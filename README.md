@@ -15,3 +15,5 @@ steps.
 
 Read more: http://users.abo.fi/sronnqvi/deepnlp/
 
+Download data for sentiment analysis at: https://www.kaggle.com/c/word2vec-nlp-tutorial
+
