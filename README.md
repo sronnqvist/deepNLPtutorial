@@ -1,3 +1,5 @@
+Updated Nov 2, 2017: New version with LSTM model, as presented at [Turku.ai](https://www.meetup.com/Turku-ai/events/244151511/).
+
 # Tutorial on deep learning for NLP: Word vectors and neural networks in Python
 
 Samuel Rönnqvist
